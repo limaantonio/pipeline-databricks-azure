@@ -1,5 +1,5 @@
 <h1 align="center">
-  pipilene-databricks-azure
+  Pipeline Databricks Azure
 </h1>
 
 # Indice
@@ -13,6 +13,22 @@
 
 
 Projeto desenvolvido no curso Databricks e Data Factory: criando e orquestrando pipelines na nuvem - Alura
+
+Estrutura do pipeline
+Esse pipeline está estruturado da seguinte maneira:
+Primeiramente, temos um Data Lake, utilizando o recurso do Data Lake Gen2 da própria Azure. Esse Data Lake vai ser estruturado em três camadas:
+
+Camada Inbound;
+Camada Bronze.
+Camada Silver.
+A camada Inbound é a camada de entrada, onde adicionamos os dados na versão bruta. Os dados que recebemos vão ser dados de imóveis, já que trabalhamos em uma empresa imobiliária.
+
+Com esses dados na nossa camada de entrada, vamos utilizar a ferramenta Databricks para aplicar determinadas transformações nesses dados e passá-los pelas camadas Bronze e Silver do Data Lake.
+
+Uma vez que temos todo esse fluxo de dados estruturado, utilizamos uma ferramenta chamada Azure Data Factory para orquestrar e automatizar a execução desse pipeline de acordo com o intervalo de tempo definido pela empresa.
+<h1 align="center">
+  <img src="/estrutura da pipeline.PNG">
+</h1>
 
 ## 🔗  Tecnologias utilizadas
 
