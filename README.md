@@ -27,7 +27,7 @@ Projeto desenvolvido no curso Databricks e Data Factory: criando e orquestrando 
 ## Imagens  do projeto
 Servicos utilizados da Azure
 <h1 align="center">
-  <img src="src/assets/images/logo.svg">
+  <img src="/servicos azure.PNG">
 </h1>
 
 ## 📦 Como baixar o projeto e executar a aplicação
