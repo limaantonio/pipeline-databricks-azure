@@ -30,6 +30,41 @@ Servicos utilizados da Azure
   <img src="/servicos azure.PNG">
 </h1>
 
+Datalakes
+<h1 align="center">
+  <img src="/Datalakes.PNG">
+</h1>
+
+Montando Acesso aos dados
+<h1 align="center">
+  <img src="/montando_acesso_aos_dados.PNG">
+</h1>
+
+Convertendo dados da camada inbound to bronze
+<h1 align="center">
+  <img src="/inbound_to_bronze.PNG">
+</h1>
+
+Convertendo dados da camada bronze to silver
+<h1 align="center">
+  <img src="/bronze_to_silver.PNG">
+</h1>
+
+Pipelines
+<h1 align="center">
+  <img src="/pipelines.PNG">
+</h1>
+
+Gatilho de pipeline
+<h1 align="center">
+  <img src="/gatilho de pipeline.PNG">
+</h1>
+
+workflows Databricks
+<h1 align="center">
+  <img src="/workflows databricks.PNG">
+</h1>
+
 ## 📦 Como baixar o projeto e executar a aplicação
 
 ```bash
