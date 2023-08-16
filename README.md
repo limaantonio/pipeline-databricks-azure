@@ -5,6 +5,7 @@
 # Indice
 - [Sobre](#-Sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- Imagens do projeto
 
 
 
@@ -22,6 +23,12 @@ Projeto desenvolvido no curso Databricks e Data Factory: criando e orquestrando 
 - [Python]([https://rest-assured.io/](https://www.python.org/)')
 - [Spark]([https://swagger.io/specification/](https://spark.apache.org/)')
 - [Databricks]([https://json-schema.org/](https://www.databricks.com/)')
+
+## Imagens  do projeto
+Servicos utilizados da Azure
+<h1 align="center">
+  <img src="src/assets/images/logo.svg">
+</h1>
 
 ## 📦 Como baixar o projeto e executar a aplicação
 
